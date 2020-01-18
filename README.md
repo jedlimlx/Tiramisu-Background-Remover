@@ -3,4 +3,4 @@
 This is a Background Remover based on the Tiramisu Model.
 It is written in tf.Keras.
 
-The model is trained on the Oxford IIIT Pets Dataset.
+The model is trained on the Oxford IIIT Pets Dataset with Google Colab's T4 GPU.
